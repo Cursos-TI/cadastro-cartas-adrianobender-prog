@@ -22,7 +22,7 @@ int main(){
     printf("Digite a populacao da  carta 1: \n");
     scanf("%d", &populacao1);
 
-    /*recebe o valor da área carta 1*/
+    /*recebe o valor da área carta 1 */
     printf("Digite a area(km²) da carta 1: \n");
     scanf("%f", &area1);
 
