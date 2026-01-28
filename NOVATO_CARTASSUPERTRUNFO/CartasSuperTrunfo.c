@@ -40,7 +40,7 @@ int main() {
     scanf("%d", &p_tur1);
 
     /*recebe letra do estado carta 2*/
-    printf("/nDigite a letra do Estado da carta 2: \n");
+    printf("\nDigite a letra do Estado da carta 2: \n");
     scanf(" %c", &estado2);
 
     /*recebe o código das cartas 2*/
