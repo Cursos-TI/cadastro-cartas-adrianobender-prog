@@ -101,7 +101,7 @@ int main(){
 
     /*Comparação de resultados*/
     printf("\nComparação de Cartas:\n");
-    printf("População: Carta 1 venceu (%d)", populacao1 > populacao2);
+    printf("População: Carta 1 venceu (%d)\n", populacao1 > populacao2);
     printf("Área: Carta 1 venceu (%d)\n", area1 > area2);
     printf("PIB: Carta 1 venceu (%d)\n", pib1 > pib2);
     printf("Pontos Turísticos: Carta 1 venceu (%d)\n", p_tur1 > p_tur2);
